@@ -10,3 +10,5 @@ Inspired by following frameworks
 [PytorchGANZoo](https://github.com/facebookresearch/pytorch_GAN_zoo)
 
 [PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN)
+
+readthedocs
