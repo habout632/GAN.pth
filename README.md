@@ -1,11 +1,12 @@
 # GAN.pth
-gan framework
+a pytorch gan framework
 
 
 # Features
 * As GAN develop so quickly, keeping up to date matters
-* providing GAN specific features as possible ,but keep Flexible as possible
-* documentation
+* Providing GAN specific features as possible i.e modular,but keep Flexible as possible
+* ocumentation
+* Production oriented
 
 
 Inspired by following frameworks
@@ -18,7 +19,7 @@ Inspired by following frameworks
 
 StarGAN_v2-Tensorflow
 
-# Models
+# Classical Models
 StyleGAN 
 
 StarGAN
