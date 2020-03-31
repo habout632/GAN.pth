@@ -32,4 +32,4 @@ StarGAN
 # GAN Loss
 
 
-readthedocs
+build docs with readthedocs
