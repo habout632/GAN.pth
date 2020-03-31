@@ -5,8 +5,9 @@ a pytorch gan framework
 # Features
 * As GAN develop so quickly, keeping up to date matters
 * Providing GAN specific features as possible i.e modular,but keep Flexible as possible
-* ocumentation
-* Production oriented
+* Documentation
+* Production oriented, Research Friendly
+* Custom Datasets & Pretrained Models provided in GANHub
 
 
 Inspired by following frameworks
