@@ -3,6 +3,8 @@ gan framework
 StarGAN_v2-Tensorflow
 TorchGAN
 
+Inspired by following frameworks
+
 [torchgan](https://torchgan.readthedocs.io/en/latest/)
 
 [PytorchGANZoo](https://github.com/facebookresearch/pytorch_GAN_zoo)
