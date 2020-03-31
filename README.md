@@ -5,11 +5,14 @@ a pytorch gan framework
 # Features
 * As GAN develop so quickly, keeping up to date matters
 * Providing GAN specific features as possible i.e modular,but keep Flexible as possible
+  - AdaIn, Spectral normalization
+  - train_generator, train_discriminator
 * Documentation
 * Production oriented, Research Friendly
 * Custom Datasets & Pretrained Models provided in GANHub
 * Easy to extension For Example 
   - do config through args file for each model
+  - train_gene
   
 
 
