@@ -5,7 +5,6 @@ TorchGAN
 
 [torchgan](https://torchgan.readthedocs.io/en/latest/)
 
-[PytorchGANZoo]
-(https://github.com/facebookresearch/pytorch_GAN_zoo)
+[PytorchGANZoo](https://github.com/facebookresearch/pytorch_GAN_zoo)
 
 [PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN)
