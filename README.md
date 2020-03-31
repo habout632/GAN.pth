@@ -9,7 +9,7 @@ a pytorch gan framework
 * Production oriented, Research Friendly
 * Custom Datasets & Pretrained Models provided in GANHub
 * Easy to extension For Example 
-  ** do config through args file for each model
+  - do config through args file for each model
   
 
 
