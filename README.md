@@ -36,6 +36,7 @@ StyleGAN
 
 StarGAN
 
+FUNIT
 
 # GAN Loss
 
