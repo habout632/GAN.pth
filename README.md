@@ -40,4 +40,5 @@ StarGAN
 # GAN Loss
 
 
-build docs with readthedocs
+[Documentation](https://ganpth.readthedocs.io/en/latest/)
+built with readthedocs
