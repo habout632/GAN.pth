@@ -6,7 +6,7 @@ a pytorch gan framework
 * As GAN develop so quickly, keeping up to date matters
 * Providing GAN specific features as possible i.e modular,but keep Flexible as possible
   - AdaIn, Spectral normalization
-  - train_generator, train_discriminator
+  - Trainer:train_generator, train_discriminator
   - GAN Loss
   - Metrics
 * Documentation
