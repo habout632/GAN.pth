@@ -49,7 +49,9 @@ use GAN.pth framework to develop following apps as demos
 
 ## AI Stylist
 
-## 
+## Demo GANS
+* Vanilla GAN
+* DCGAN
 
 
 
