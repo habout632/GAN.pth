@@ -9,6 +9,8 @@ a pytorch gan framework
   - Trainer:train_generator, train_discriminator
   - GAN Loss
   - Metrics
+  - Demo
+  
 * Documentation
 * Production oriented, Research Friendly
 * Custom Datasets & Pretrained Models provided in GANHub
@@ -36,8 +38,22 @@ StyleGAN
 
 StarGAN
 
+FUNIT
 
 # GAN Loss
+
+# Demos
+use GAN.pth framework to develop following apps as demos
+
+## Faceswap
+
+## AI Stylist
+
+## Demo GANS
+* Vanilla GAN
+* DCGAN
+
+
 
 
 [Documentation](https://ganpth.readthedocs.io/en/latest/)
