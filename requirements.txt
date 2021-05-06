@@ -34,7 +34,7 @@ face-alignment==1.0.0
 ffmpeg-python==0.2.0
 fire==0.3.1
 Flask==1.1.2
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 freetype-py==2.1.0.post1
 future==0.18.2
 fvcore==0.1.dev200506
