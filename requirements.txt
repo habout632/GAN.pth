@@ -170,7 +170,7 @@ tornado==6.0.3
 tqdm==4.43.0
 traitlets==4.3.3
 transforms3d==0.3.1
-urllib3==1.25.4
+urllib3==1.26.5
 uWSGI==2.0.18
 vector-quantize-pytorch==0.0.2
 visdom==0.1.8.9
