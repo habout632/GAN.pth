@@ -82,7 +82,7 @@ linear-attention-transformer==0.11.0
 linformer==0.1.0
 lmdb==0.98
 local-attention==1.0.2
-lxml==4.5.0
+lxml==4.9.1
 Markdown==3.1.1
 MarkupSafe==1.1.1
 matplotlib==3.1.1
